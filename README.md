@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/navyakottakkeel/Leetcode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/navyakottakkeel/Leetcode/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
@@ -29,9 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/navyakottakkeel/Leetcode/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/navyakottakkeel/Leetcode/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyakottakkeel/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/navyakottakkeel/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/navyakottakkeel/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
