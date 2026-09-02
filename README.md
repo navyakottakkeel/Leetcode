@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/navyakottakkeel/Leetcode/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/navyakottakkeel/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyakottakkeel/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/navyakottakkeel/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -40,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/navyakottakkeel/Leetcode/tree/master/0383-ransom-note) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
