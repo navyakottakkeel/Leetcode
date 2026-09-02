@@ -54,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/navyakottakkeel/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
