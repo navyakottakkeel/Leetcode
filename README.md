@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/navyakottakkeel/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/navyakottakkeel/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/navyakottakkeel/Leetcode/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/navyakottakkeel/Leetcode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/navyakottakkeel/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/navyakottakkeel/Leetcode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/navyakottakkeel/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/navyakottakkeel/Leetcode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/navyakottakkeel/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
