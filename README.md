@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/navyakottakkeel/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/navyakottakkeel/Leetcode/tree/master/0035-search-insert-position) |
+| [0119-pascals-triangle-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyakottakkeel/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/navyakottakkeel/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyakottakkeel/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/navyakottakkeel/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Counting
