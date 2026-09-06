@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/navyakottakkeel/Leetcode/tree/master/0035-search-insert-position) |
 | [0119-pascals-triangle-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyakottakkeel/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/navyakottakkeel/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/navyakottakkeel/Leetcode/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/navyakottakkeel/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/navyakottakkeel/Leetcode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/navyakottakkeel/Leetcode/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
