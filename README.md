@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/navyakottakkeel/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/navyakottakkeel/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/navyakottakkeel/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/navyakottakkeel/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/navyakottakkeel/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/navyakottakkeel/Leetcode/tree/master/0009-palindrome-number) |
+| [0342-power-of-four](https://github.com/navyakottakkeel/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/navyakottakkeel/Leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/navyakottakkeel/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/navyakottakkeel/Leetcode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
