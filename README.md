@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navyakottakkeel/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
+| [0704-binary-search](https://github.com/navyakottakkeel/Leetcode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/navyakottakkeel/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/navyakottakkeel/Leetcode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/navyakottakkeel/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
