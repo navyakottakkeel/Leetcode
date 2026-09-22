@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/navyakottakkeel/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/navyakottakkeel/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/navyakottakkeel/Leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/navyakottakkeel/Leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0541-reverse-string-ii) |
 ## Array
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/navyakottakkeel/Leetcode/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/navyakottakkeel/Leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/navyakottakkeel/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/navyakottakkeel/Leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/navyakottakkeel/Leetcode/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/navyakottakkeel/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
