@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/navyakottakkeel/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1408-string-matching-in-an-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/navyakottakkeel/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/navyakottakkeel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/navyakottakkeel/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/navyakottakkeel/Leetcode/tree/master/0561-array-partition) |
 | [0888-fair-candy-swap](https://github.com/navyakottakkeel/Leetcode/tree/master/0888-fair-candy-swap) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/navyakottakkeel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/navyakottakkeel/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Quicksort
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/navyakottakkeel/Leetcode/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/navyakottakkeel/Leetcode/tree/master/0888-fair-candy-swap) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/navyakottakkeel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
