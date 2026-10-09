@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/navyakottakkeel/Leetcode/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/navyakottakkeel/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/navyakottakkeel/Leetcode/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/navyakottakkeel/Leetcode/tree/master/0888-fair-candy-swap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/navyakottakkeel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/navyakottakkeel/Leetcode/tree/master/0561-array-partition) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/navyakottakkeel/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
