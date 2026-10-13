@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/navyakottakkeel/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/navyakottakkeel/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/navyakottakkeel/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/navyakottakkeel/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0922-sort-array-by-parity-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1408-string-matching-in-an-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/navyakottakkeel/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/navyakottakkeel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/navyakottakkeel/Leetcode/tree/master/0561-array-partition) |
 | [0888-fair-candy-swap](https://github.com/navyakottakkeel/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0922-sort-array-by-parity-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/navyakottakkeel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/navyakottakkeel/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Quicksort
