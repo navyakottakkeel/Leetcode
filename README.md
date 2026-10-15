@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/navyakottakkeel/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0804-unique-morse-code-words](https://github.com/navyakottakkeel/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navyakottakkeel/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1408-string-matching-in-an-array) |
 ## Array
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/navyakottakkeel/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/navyakottakkeel/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/navyakottakkeel/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navyakottakkeel/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/navyakottakkeel/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
