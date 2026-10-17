@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/navyakottakkeel/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/navyakottakkeel/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/navyakottakkeel/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0908-smallest-range-i](https://github.com/navyakottakkeel/Leetcode/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1122-relative-sort-array) |
 | [1408-string-matching-in-an-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/navyakottakkeel/Leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/navyakottakkeel/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/navyakottakkeel/Leetcode/tree/master/0509-fibonacci-number) |
+| [0908-smallest-range-i](https://github.com/navyakottakkeel/Leetcode/tree/master/0908-smallest-range-i) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navyakottakkeel/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
