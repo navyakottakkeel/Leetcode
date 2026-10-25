@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/navyakottakkeel/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/navyakottakkeel/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/navyakottakkeel/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/navyakottakkeel/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/navyakottakkeel/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/navyakottakkeel/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/navyakottakkeel/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/navyakottakkeel/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/navyakottakkeel/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/navyakottakkeel/Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/navyakottakkeel/Leetcode/tree/master/0500-keyboard-row) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyakottakkeel/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/navyakottakkeel/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/navyakottakkeel/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/navyakottakkeel/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Counting
