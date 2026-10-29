@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/navyakottakkeel/Leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/navyakottakkeel/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/navyakottakkeel/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0860-lemonade-change](https://github.com/navyakottakkeel/Leetcode/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/navyakottakkeel/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0908-smallest-range-i](https://github.com/navyakottakkeel/Leetcode/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/navyakottakkeel/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/navyakottakkeel/Leetcode/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/navyakottakkeel/Leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/navyakottakkeel/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
