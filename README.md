@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/navyakottakkeel/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navyakottakkeel/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1408-string-matching-in-an-array) |
+| [3921-score-validator](https://github.com/navyakottakkeel/Leetcode/tree/master/3921-score-validator) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/navyakottakkeel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/navyakottakkeel/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2540-minimum-common-value](https://github.com/navyakottakkeel/Leetcode/tree/master/2540-minimum-common-value) |
+| [3921-score-validator](https://github.com/navyakottakkeel/Leetcode/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/navyakottakkeel/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/navyakottakkeel/Leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/navyakottakkeel/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [3921-score-validator](https://github.com/navyakottakkeel/Leetcode/tree/master/3921-score-validator) |
 ## Enumeration
 |  |
 | ------- |
