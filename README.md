@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/navyakottakkeel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/navyakottakkeel/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2540-minimum-common-value](https://github.com/navyakottakkeel/Leetcode/tree/master/2540-minimum-common-value) |
+| [3668-restore-finishing-order](https://github.com/navyakottakkeel/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3921-score-validator](https://github.com/navyakottakkeel/Leetcode/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1122-relative-sort-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/navyakottakkeel/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2540-minimum-common-value](https://github.com/navyakottakkeel/Leetcode/tree/master/2540-minimum-common-value) |
+| [3668-restore-finishing-order](https://github.com/navyakottakkeel/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Dynamic Programming
 |  |
 | ------- |
