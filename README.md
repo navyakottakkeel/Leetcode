@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/navyakottakkeel/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/navyakottakkeel/Leetcode/tree/master/0942-di-string-match) |
 | [2540-minimum-common-value](https://github.com/navyakottakkeel/Leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/navyakottakkeel/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/navyakottakkeel/Leetcode/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/navyakottakkeel/Leetcode/tree/master/0824-goat-latin) |
+| [0942-di-string-match](https://github.com/navyakottakkeel/Leetcode/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navyakottakkeel/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [3921-score-validator](https://github.com/navyakottakkeel/Leetcode/tree/master/3921-score-validator) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/navyakottakkeel/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0908-smallest-range-i](https://github.com/navyakottakkeel/Leetcode/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/navyakottakkeel/Leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/navyakottakkeel/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1046-last-stone-weight](https://github.com/navyakottakkeel/Leetcode/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1122-relative-sort-array) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/navyakottakkeel/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/navyakottakkeel/Leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/navyakottakkeel/Leetcode/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/navyakottakkeel/Leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/navyakottakkeel/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
