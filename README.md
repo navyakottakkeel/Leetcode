@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/navyakottakkeel/Leetcode/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navyakottakkeel/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1436-destination-city](https://github.com/navyakottakkeel/Leetcode/tree/master/1436-destination-city) |
 | [3921-score-validator](https://github.com/navyakottakkeel/Leetcode/tree/master/3921-score-validator) |
 ## Array
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1122-relative-sort-array) |
 | [1184-distance-between-bus-stops](https://github.com/navyakottakkeel/Leetcode/tree/master/1184-distance-between-bus-stops) |
 | [1408-string-matching-in-an-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1436-destination-city](https://github.com/navyakottakkeel/Leetcode/tree/master/1436-destination-city) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/navyakottakkeel/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/navyakottakkeel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/navyakottakkeel/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/navyakottakkeel/Leetcode/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/navyakottakkeel/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1122-relative-sort-array) |
+| [1436-destination-city](https://github.com/navyakottakkeel/Leetcode/tree/master/1436-destination-city) |
 | [2094-finding-3-digit-even-numbers](https://github.com/navyakottakkeel/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2540-minimum-common-value](https://github.com/navyakottakkeel/Leetcode/tree/master/2540-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/navyakottakkeel/Leetcode/tree/master/3668-restore-finishing-order) |
