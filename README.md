@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/navyakottakkeel/Leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/navyakottakkeel/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1037-valid-boomerang](https://github.com/navyakottakkeel/Leetcode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/navyakottakkeel/Leetcode/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1122-relative-sort-array) |
 | [1184-distance-between-bus-stops](https://github.com/navyakottakkeel/Leetcode/tree/master/1184-distance-between-bus-stops) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/navyakottakkeel/Leetcode/tree/master/0509-fibonacci-number) |
 | [0908-smallest-range-i](https://github.com/navyakottakkeel/Leetcode/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/navyakottakkeel/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1037-valid-boomerang](https://github.com/navyakottakkeel/Leetcode/tree/master/1037-valid-boomerang) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navyakottakkeel/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/navyakottakkeel/Leetcode/tree/master/1046-last-stone-weight) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/navyakottakkeel/Leetcode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
