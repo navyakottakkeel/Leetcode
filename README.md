@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/navyakottakkeel/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/navyakottakkeel/Leetcode/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/navyakottakkeel/Leetcode/tree/master/0824-goat-latin) |
+| [0830-positions-of-large-groups](https://github.com/navyakottakkeel/Leetcode/tree/master/0830-positions-of-large-groups) |
 | [0942-di-string-match](https://github.com/navyakottakkeel/Leetcode/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navyakottakkeel/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1408-string-matching-in-an-array) |
