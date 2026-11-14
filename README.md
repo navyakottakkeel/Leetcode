@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/navyakottakkeel/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/navyakottakkeel/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/navyakottakkeel/Leetcode/tree/master/0942-di-string-match) |
+| [1089-duplicate-zeros](https://github.com/navyakottakkeel/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2540-minimum-common-value](https://github.com/navyakottakkeel/Leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/navyakottakkeel/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/navyakottakkeel/Leetcode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/navyakottakkeel/Leetcode/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/navyakottakkeel/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1122-relative-sort-array) |
 | [1184-distance-between-bus-stops](https://github.com/navyakottakkeel/Leetcode/tree/master/1184-distance-between-bus-stops) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/navyakottakkeel/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
